@@ -1,5 +1,5 @@
 function Cat() {
-
+	this.stomash = [];
 }
 
-module.export = Cat
+module.export = Cat;
